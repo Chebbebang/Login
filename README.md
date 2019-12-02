@@ -1,4 +1,4 @@
-#Login and Register
+#LoginandRegister
 
 created the a Login and Register file in one page using HTML, CSS and Javascript
 
